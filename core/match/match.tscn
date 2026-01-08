@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://da5i3h7iw3b0n"]
+
+[ext_resource type="Script" uid="uid://dpteb500m1ykd" path="res://core/match/match.gd" id="1_qvbg2"]
+
+[node name="Match" type="Node"]
+script = ExtResource("1_qvbg2")

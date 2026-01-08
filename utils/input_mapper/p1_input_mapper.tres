@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="InputMapper" load_steps=2 format=3 uid="uid://63o0dk3mmd3i"]
+
+[ext_resource type="Script" uid="uid://dcs7xj4m7gkq3" path="res://utils/input_mapper/input_mapper.gd" id="1_x1bkc"]
+
+[resource]
+script = ExtResource("1_x1bkc")
+up = &"p1_up"
+down = &"p1_down"
+left = &"p1_left"
+right = &"p1_right"
+light = &"p1_light"
+heavy = &"p1_heavy"
+dash = &"p1_dash"
+special1 = &"p1_special1"
+special2 = &"p1_special2"
+special3 = &"p1_special3"
+metadata/_custom_type_script = "uid://dcs7xj4m7gkq3"
