@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="InputMapper" load_steps=2 format=3 uid="uid://ctj4l0yhj7yid"]
+
+[ext_resource type="Script" path="res://core/input/mapping/input_mapper.gd" id="1_nkdhy"]
+
+[resource]
+script = ExtResource("1_nkdhy")
+index = 2
+up = &"p2_up"
+down = &"p2_down"
+left = &"p2_left"
+right = &"p2_right"
+light = &"p2_light"
+heavy = &"p2_heavy"
+dash = &"p2_dash"
+special1 = &"p2_special1"
+special2 = &"p2_special2"
+special3 = &"p2_special3"
